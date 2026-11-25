@@ -1,15 +1,17 @@
-<h1 align="center">VGergo14</h1>
-<p align="center"><em>Python developer — building small, practical tools that run locally.</em></p>
+<h1 align="center">Gergo Varga</h1>
+<p align="center"><em>iOS developer. I build apps that turn health data into plain answers.</em></p>
 
-## About
+## What I'm building
 
-- Working mainly with **Python** and **Flask**
-- Into tools that run on your own machine: simple, fast, no accounts
-- Always learning, always building something new
+**[Aera](https://aerahealth.app)** — a sleep, recovery and fitness app for iPhone and Apple Watch. It explains your numbers against your own usual, shows its working, and turns runs into 3D flyovers.
 
-## Tech stack
+[Get it on the App Store](https://apps.apple.com/app/id6762456252)
 
-Python · Flask · yt-dlp · HTML/CSS · JavaScript
+## How I work
+
+- Swift and SwiftUI, with SwiftData and strict concurrency
+- I build with AI coding tools and care most about what the app does for people, not how it works inside
+- Small steps, committed often, tested before it ships
 
 ## Contact
 
