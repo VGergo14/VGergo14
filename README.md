@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">VGergo14</h1>
+<p align="center"><em>Python developer — building small, practical tools that run locally.</em></p>
 
-<!--
-**VGergo14/VGergo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+- Working mainly with **Python** and **Flask**
+- Main project: [yt-dip-local](https://github.com/VGergo14/yt-dip-local) — a local YouTube downloader
+- Currently working on [cubeworld-](https://github.com/VGergo14/cubeworld-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [yt-dip-local](https://github.com/VGergo14/yt-dip-local) | Paste a YouTube URL in a local web UI and download the video as MP4 |
+| [cubeworld-](https://github.com/VGergo14/cubeworld-) | Work in progress |
+
+## Tech stack
+
+Python · Flask · yt-dlp · HTML/CSS · JavaScript
+
+## Contact
+
+- GitHub: [@VGergo14](https://github.com/VGergo14)
